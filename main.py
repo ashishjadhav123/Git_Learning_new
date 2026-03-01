@@ -7,7 +7,7 @@ def print_msg(msg):
 if __name__ == '__main__':
     # Adding feature 1 for process
     # Changes in main
-    # main conflict
+    # main conflict main branch
     input_msg = input("Enter your message: ")
     print_msg(input_msg)
     print("Bye")
